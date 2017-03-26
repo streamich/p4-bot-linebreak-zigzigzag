@@ -1,0 +1,8 @@
+{
+  "name": "p4-bot-linebreak-zigzigzag",
+  "version": "0.0.1",
+  "dependencies": {
+    "p4-comp-linebreak-zigzigzag": "0.0.1",
+    "p4-comp": "0.0.2"
+  }
+}
